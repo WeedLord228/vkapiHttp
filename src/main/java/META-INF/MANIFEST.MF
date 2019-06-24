@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: D:\Projects\vkapiHttp\src\main\java\Main\Main.java
+Main-Class: Main.Main
+
